@@ -17,6 +17,8 @@ I am currently studying/working on:
 
 In my free time, I enjoy watching TV series and movies, playing games, enjoying good music and traveling!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamendes)](https://github.com/luizamendes/github-readme-stats)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizamendes)](https://www.linkedin.com/in/luizamendes)
 
 <!--
