@@ -2,13 +2,13 @@
 
 My name is **Luiza Mendes**. I am from **Brazil**. I am a **Graphic Designer** and a **Software Engineer**. I worked as a Graphic Designer for nearly six years. In 2017, I decided to go back to the university to learn more about the development world, that dazzles me so much.
 
-As a Designer, I feel in love with the front end universe. That said, my specialties in the field are **Javascript, HTML, CSS, React (React Hooks, Redux, and Redux-saga), Vue and a bit of Angular. I also have experience in Node.**
+As a Designer, I fell in love with the front end universe. That said, my specialties in the field are **Javascript, HTML, CSS, React (Hooks), Nextjs, Vue. I also have experience in Node.**
 
-I love learning and I always dedicate myself to get to know other technologies, improve my coding and problem solving skills. 
+I love learning and I always dedicate myself to discover other technologies, improve my coding and problem solving skills. 
 
 In my free time, I enjoy watching TV series and movies, playing games, enjoying good music and traveling!
 
-I speak **Portuguese** as my native language, **English**, **Spanish** and now I am learning **French**, and loving it!
+I speak **Portuguese** as my native language, **English**, **French** and **Spanish**.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamendes)](https://github.com/luizamendes/github-readme-stats)
 
