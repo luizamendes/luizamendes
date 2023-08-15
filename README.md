@@ -10,14 +10,14 @@ In my free time, I enjoy watching TV series and movies, playing games, enjoying 
 
 I speak **Portuguese** as my native language, **English**, **French** and **Spanish**.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamendes)](https://github.com/luizamendes/github-readme-stats)
-
 Connect with me on LinkedIn:
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizamendes)](https://www.linkedin.com/in/luizamendes)
 
 <!--
 **luizamendes/luizamendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizamendes)](https://github.com/luizamendes/github-readme-stats)
 
 Here are some ideas to get you started:
 
